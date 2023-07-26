@@ -1,0 +1,14 @@
+C:\Users\a\Desktop\Assessment16\bin\Debug\net8.0\Assessment16.exe
+C:\Users\a\Desktop\Assessment16\bin\Debug\net8.0\Assessment16.deps.json
+C:\Users\a\Desktop\Assessment16\bin\Debug\net8.0\Assessment16.runtimeconfig.json
+C:\Users\a\Desktop\Assessment16\bin\Debug\net8.0\Assessment16.dll
+C:\Users\a\Desktop\Assessment16\bin\Debug\net8.0\Assessment16.pdb
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\Assessment16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\Assessment16.AssemblyInfoInputs.cache
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\Assessment16.AssemblyInfo.cs
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\Assessment16.csproj.CoreCompileInputs.cache
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\Assessment16.dll
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\refint\Assessment16.dll
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\Assessment16.pdb
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\Assessment16.genruntimeconfig.cache
+C:\Users\a\Desktop\Assessment16\obj\Debug\net8.0\ref\Assessment16.dll
